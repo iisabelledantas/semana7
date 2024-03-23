@@ -49,6 +49,7 @@ C) O código avalia a expressão booleana, imprime o resultado `true` e verifica
 
 D) O código avalia a expressão booleana, imprime o resultado `false` e ordena a lista de números em ordem crescente.
 
+### A resposta correta é B
 
 ______
 
@@ -113,6 +114,8 @@ C) A saída de calcularOrcamento() seria: 'Seu saldo é negativo de -100.' e a d
 
 D) As funções calcularOrcamento() e calcularOrcamento2() teriam a mesma saída: 'Seu saldo é negativo de -100.'
 
+### A resposta correta é B
+
 ______
 
 **3)** Considere o seguinte trecho de código em JavaScript:
@@ -140,7 +143,7 @@ C) O código verifica se o número é par, ímpar ou divisível por 3. Se for pa
 
 D) O código verifica se o número é par, se é divisível por 3 ou se é ímpar. Se for par, exibe a mensagem "O número é par!". Se for divisível por 3 (e não for par), exibe a mensagem "O número é divisível por 3!". Se for ímpar (e não for divisível por 3), exibe a mensagem "O número é ímpar e não é divisível por 3!".
 
-
+### A resposta correta é C
 ______
 
 **4)** Qual será o resultado impresso no console após a execução desse código?
@@ -214,6 +217,8 @@ Compra 4 negada. Saldo insuficiente e limite de crédito excedido.
 
 Compra 5 negada. Saldo insuficiente e limite de crédito excedido.
 
+### A resposta correta é D
+
 ______
 
 **5)** Qual é o principal ciclo de vida de um jogo em Phaser.js?
@@ -227,6 +232,8 @@ B) Preload -> Create -> Update
 C) Load -> Initialize -> Render
 
 D) Begin -> Play -> End
+
+### A resposta correta é B
 ______
 
 **6)** Qual é o objetivo principal do módulo Arcade Physics em Phaser.js?
@@ -240,6 +247,8 @@ B) Simular interações físicas realistas, como colisões e movimentos, em jogo
 C) Criar efeitos de áudio para melhorar a experiência do usuário em jogos.
 
 D) Gerenciar a lógica do jogo e a sincronização de eventos em jogos multiplayer.
+
+### A resposta correta é B
 
 ______
 
